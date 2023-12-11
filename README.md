@@ -1,6 +1,6 @@
   - 👋 Hi, I’m Madushanka Rathnayaka
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning in SLIIT
+- 🌱 I’m currently learning in SLIIT (4th year completed)
 - 📫 How to reach me madhushanka.mr@gmail.com
 
 <!---
