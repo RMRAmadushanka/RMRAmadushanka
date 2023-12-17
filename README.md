@@ -3,10 +3,10 @@
 I'm a passionate Full Stack Developer with a love for crafting clean code and building awesome applications. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
-- **Frontend:** HTML, CSS, JavaScript, React, Angular
-- **Backend:** Node.js, Express.js, Django, Flask
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express.js
 - **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools:** Git, Jira
+- **Tools:** Git, Jira, VS code
 
 
 ## 💼 Work Experience
