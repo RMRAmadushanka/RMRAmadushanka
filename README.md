@@ -1,9 +1,22 @@
-  - 👋 Hi, I’m Madushanka Rathnayaka
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning in SLIIT (4th year completed)
-- 📫 How to reach me madhushanka.mr@gmail.com
+# Hi there! 👋 I'm [Rolan Rathnayaka]
 
-<!---
-RMRAmadushanka/RMRAmadushanka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Full Stack Developer with a love for crafting clean code and building awesome applications. Welcome to my GitHub profile!
+
+## 🔧 Technologies & Tools
+- **Frontend:** HTML, CSS, JavaScript, React, Angular
+- **Backend:** Node.js, Express.js, Django, Flask
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Tools:** Git, Jira
+
+
+## 💼 Work Experience
+- **[Surge Global Pvt, Sri Lanka]** - *Software Engineering Intern* (Sept, 2022- Feb, 2023)
+  - Developed end-to-end functionalities for a MERN stack web application, contributing to both frontend and backend components.
+  - Work with AWS Cognito integration for user authentication within a MERN stack web application.
+  - Work with JIRA project management tool. 
+
+## 📫 How to reach me 
+  - madhushanka.mr@gmail.com
+  
+Thanks for visiting! Feel free to reach out and connect. 😊
+
