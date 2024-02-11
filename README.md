@@ -5,9 +5,9 @@ I'm a passionate Full Stack Developer with a love for crafting clean code and bu
 ## 🔧 Technologies & Tools
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express.js
-- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Databases:** MySQL, MongoDB,
 - **Tools:** Git, Jira, VS code
-
+- **Stack:** MERN
 
 ## 💼 Work Experience
 - **[Surge Global Pvt, Sri Lanka]** - *Software Engineering Intern* (Sept, 2022- Feb, 2023)
