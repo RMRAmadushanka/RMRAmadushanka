@@ -4,7 +4,7 @@ I'm a passionate Full Stack Developer with a love for crafting clean code and bu
 
 ## 🔧 Technologies & Tools
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express.js
+- **Backend:** Node.js, Express.js, C# asp.net core web api
 - **Databases:** MySQL, MongoDB,
 - **Tools:** Git, Jira, VS code
 - **Stack:** MERN
@@ -12,8 +12,9 @@ I'm a passionate Full Stack Developer with a love for crafting clean code and bu
 ## 💼 Work Experience
 - **[Surge Global Pvt, Sri Lanka]** - *Software Engineering Intern* (Sept, 2022- Feb, 2023)
   - Developed end-to-end functionalities for a MERN stack web application, contributing to both frontend and backend components.
-  - Work with AWS Cognito integration for user authentication within a MERN stack web application.
-  - Work with JIRA project management tool. 
+  - Demonstrated proficiency in scoping, building, structuring, and architecting applications with the MERN stack, and gained exposure to product management,
+    Agile practices, and DevOps tools/platforms such as Bitbucket, JIRA, Confluence, and AWS.
+
 
 ## 📫 How to reach me 
   - madhushanka.mr@gmail.com
