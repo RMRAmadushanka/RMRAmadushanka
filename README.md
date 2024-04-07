@@ -3,11 +3,11 @@
 I'm a passionate Full Stack Developer with a love for crafting clean code and building awesome applications. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express.js, C# asp.net core web api
-- **Databases:** MySQL, MongoDB,
-- **Tools:** Git, Jira, VS code
-- **Stack:** MERN
+- **Programming Languages:** JavaScript, React, JAVA, C#, HTML, CSS, 
+- **Frameworks/Libraries:** ReactJS, Node.js, Redux, Express.js, Bootstrap, Material UI, C# asp.net core web api, React Native, Ant Design, Formik, Redux saga
+- **Databases:** MySQL, MongoDB, SQL
+- **Tools & Platforms:**  Git, Jira, VS code , Bitbucket, JIRA, Swagger, Firebase
+- **Deployment Platforms:** Render
 
 ## 💼 Work Experience
 - **[Surge Global Pvt, Sri Lanka]** - *Software Engineering Intern* (Sept, 2022- Feb, 2023)
