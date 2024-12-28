@@ -3,11 +3,12 @@
 I'm a passionate Full Stack Developer with a love for crafting clean code and building awesome applications. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
-- **Programming Languages:** JavaScript, JAVA, C#, HTML, CSS, .Net, 
+- **Programming Languages:** JavaScript, JAVA, C#, HTML, CSS, .Net, SpringBoot, 
 - **Frameworks/Libraries:** ReactJS, NodeJs, Redux, Express.js, Bootstrap, Material UI, C# .Net core web api, React Native, Ant Design, Formik, Redux saga
 - **Databases:** MySQL, MongoDB, SQL
 - **Tools & Platforms:**  Git, Jira, VS code , Bitbucket, JIRA, Swagger, Firebase
 - **Deployment Platforms:** Render,Vercel
+- **Development approach:** Agile software development  
 
 ## 💼 Work Experience
 - **[Surge Global Pvt, Sri Lanka]** - *Software Engineering Intern*
@@ -15,6 +16,8 @@ I'm a passionate Full Stack Developer with a love for crafting clean code and bu
   - Demonstrated proficiency in scoping, building, structuring, and architecting applications with the MERN stack, and gained exposure to product management,
   - Agile practices, and DevOps tools/platforms such as Bitbucket, JIRA, Confluence, and AWS.
 
+- **[Arimac, Sri Lanka]** - *Software Engineering Intern*
+  - Developing REST APIs using Java Spring Boot, supporting backend functionality.
 
 ## 📫 How to reach me 
   - madhushanka.mr@gmail.com
